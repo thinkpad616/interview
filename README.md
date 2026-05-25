@@ -1,4 +1,5 @@
-JVM 
+### JVM Architecture
+https://interviewnoodle.com/jvm-architecture-71fd37e7826e
 <img width="1313" height="710" alt="Screen Shot 2026-05-15 at 7 31 15 AM" src="https://github.com/user-attachments/assets/86cf752d-faf7-496e-8c41-d88fc302c418" />
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f293d235-4fcb-424d-9930-b507af66ee54" />
